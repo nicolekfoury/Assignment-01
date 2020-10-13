@@ -7,6 +7,8 @@ Heuristics Evaluation of [Healthfinder]
 By  Nicole Kfoury	Date  October 13, 2020
 https://health.gov/myhealthfinder
 
+Healthfinder, is a website coordinated by the Office of Disease Prevention and Health Promotion, Office of the Assistant Secretary for Health, Office of the Secretary, and U.S. Department of Health and Human Services. The site provides a general overview to a wide range of health topics, including but not limited to doctor's visits, everyday health questions, and preganancy questions. 
+
 1. Visibility of system status  
 Evaluation – 2/3
 The system status throughout the website is relatively visible. When I hover over certain clickable options, the text will become underlined (or if it’s a “read more” or “search” button, the button will change color). This feedback let’s me know instantly that I am selecting the correct item to click on and further navigate the site. While these attempts to show system status are appreciated, there is inconsistency of this across all the website. Certain menu items, such as clicking the logo on the homepage, selecting “Browse topics” on the homepage, or the top ribbon link to the U.S. Department of Health and Human Services, do not provide any sort of feedback that I am hovering over the option before I commit and click on whichever item.
